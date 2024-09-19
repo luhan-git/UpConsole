@@ -1,0 +1,7 @@
+namespace UpSales.Commands
+{
+    public interface ICommand
+    {
+        void Execute();
+    }
+}
